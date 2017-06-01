@@ -20,5 +20,4 @@ public class SSINTest {
         ssin = new SSIN(target1, pattern1);
         Assert.assertEquals(false, ssin.StringShitIncluded());
     }
-
 }
